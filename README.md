@@ -1,2 +1,2 @@
-1MyApp
-This is my app
+# My Work
+This is to learn git using git bash
